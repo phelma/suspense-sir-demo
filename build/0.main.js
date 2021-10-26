@@ -15,7 +15,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _data__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./data */ "./src/data.js");
 
 
-var _jsxFileName = "/sandbox/src/Comments.js";
+var _jsxFileName = "/workspaces/suspense-sir-demo/src/Comments.js";
 
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -61,7 +61,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/sandbox/src/data.js";
+var _jsxFileName = "/workspaces/suspense-sir-demo/src/data.js";
 
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.

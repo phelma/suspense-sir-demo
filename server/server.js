@@ -1,11 +1,3 @@
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- *
- */
-
 'use strict';
 
 const babelRegister = require('@babel/register');
@@ -40,7 +32,7 @@ app.get(
   '/',
   handleErrors(async function(req, res) {
     await waitForWebpack();
-    render(req.url, res);
+    render(req, res);
   })
 );
 app.use(express.static('build'));

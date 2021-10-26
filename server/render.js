@@ -19,7 +19,7 @@ let assets = {
   'main.css': '/main.css',
 };
 
-module.exports = function render(url, res) {
+module.exports = function render(req, res) {
   // This is how you would wire it up previously:
   //
   // res.send(
